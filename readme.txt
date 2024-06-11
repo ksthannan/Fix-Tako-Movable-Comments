@@ -1,4 +1,4 @@
-Tako Movable Comments
+Tako Movable Comments fix and update
 https://wordpress.org/plugins/tako-movable-comments/
 
 * Move comments across posts, pages, and posts under custom post types

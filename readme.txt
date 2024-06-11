@@ -1,5 +1,5 @@
-<h1>Tako Movable Comments</h1>
-<a href="https://wordpress.org/plugins/tako-movable-comments/">https://wordpress.org/plugins/tako-movable-comments/</a>
+Tako Movable Comments
+https://wordpress.org/plugins/tako-movable-comments/
 
 * Move comments across posts, pages, and posts under custom post types
 * Automatically move all the nested comments under the comment chosen to be moved
